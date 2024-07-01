@@ -1,0 +1,74 @@
+.App {
+  font-family: 'Roboto', sans-serif; /* Fonte moderna */
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.container {
+  background-color: #222; /* Fundo escuro */
+  border: 1px solid #00b3b3; /* Borda em cor neon */
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 20px rgba(0, 179, 179, 0.4); /* Sombra suave */
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 3em; /* Tamanho maior */
+  margin-bottom: 10px;
+  color: #00b3b3; /* Cor neon */
+  text-shadow: 2px 2px 5px rgba(0, 179, 179, 0.6); /* Sombra de texto */
+}
+
+header p {
+  font-size: 1.8em; /* Tamanho maior */
+  color: #999; /* Cinza claro */
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #333; /* Fundo escuro */
+  border: 1px solid #00b3b3; /* Borda em cor neon */
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 179, 179, 0.4); /* Sombra suave */
+}
+
+section h2 {
+  font-size: 2.2em; /* Tamanho maior */
+  margin-bottom: 15px;
+  color: #00b3b3; /* Cor neon */
+}
+
+section p {
+  font-size: 1.2em; /* Tamanho maior */
+  line-height: 1.8;
+  color: #ccc; /* Cinza claro */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 1.1em; /* Tamanho maior */
+  color: #ccc; /* Cinza claro */
+}
+
+ul li a {
+  color: #00b3b3; /* Cor neon */
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+  color: #66ffff; /* Cor de destaque */
+}
