@@ -8,7 +8,6 @@ const Sobre = ({ bio, email, phone, website }) => {
       <ul>
         <li>Email: {email}</li>
         <li>Telefone: {phone}</li>
-        <li>Website: <a href={website}>{website}</a></li>
       </ul>
     </section>
   );
