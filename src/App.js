@@ -22,6 +22,7 @@ function App() {
     'Angular',
     'Primeng',
     'Primefaces',
+    "Inglês avançado"
 
   ];
   return (
